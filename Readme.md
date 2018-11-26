@@ -14,7 +14,7 @@ yxchspring0209@foxmail.com
 The clinic data of BRCA
 
 2) ds1_brca_tumor.Rdata:
-The tumor data of BRCA after filtering the genes whose mean values are less than 0.2 and variations are less than 2 across the tumor samples
+The tumor data of BRCA after filtering the genes whose mean values are less than 0.2 and variations are less than 2 across the tumor samples.
 Note: The data is too big on GitHub, so please refer to the following website for the details,
 Link: https://pan.baidu.com/s/1iNtPzwSpYUnD3GW8mUGppw 
 Extraction code: 41wa 
